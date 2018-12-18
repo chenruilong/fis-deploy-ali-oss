@@ -1,0 +1,25 @@
+{
+  "name": "fis3-deploy-alibaba-oss",
+  "version": "1.0.0",
+  "description": "发布静态资源到阿里云oss",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chenruilong/fis-deploy-ali-oss.git"
+  },
+  "keywords": [
+    "fis",
+    "aliyun",
+    "oss",
+    "deploy"
+  ],
+  "author": "crl",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chenruilong/fis-deploy-ali-oss/issues"
+  },
+  "homepage": "https://github.com/chenruilong/fis-deploy-ali-oss#readme",
+  "dependencies": {
+    "ali-oss": "^6.0.2"
+  }
+}
